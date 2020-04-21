@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Microsoft",
+        "symbol": "MSFT",
+        "index": "index"
+    },
+    {
+        "name": "Dassault",
+        "symbol": "DASTY",
+        "index": "index"
+    },
+    {
+        "name": "Hewlett Packard",
+        "symbol": "HPE",
+        "index": "index"
+    },
+    {
+        "name": "Cisco Systems",
+        "symbol": "CSCO",
+        "index": "index"
+    },
+    {
+        "name": "Lenovo Group",
+        "symbol": "0992.HK",
+        "index": "index"
+    },
+    {
+        "name": "Autodesk",
+        "symbol": "ADSK",
+        "index": "index"
+    },
+    {
+        "name": "LG Electronics",
+        "symbol": "066570.KS",
+        "index": "index"
+    },
+    {
+        "name": "H&M",
+        "symbol": "HM-B.ST",
+        "index": "index"
+    },
+    {
+        "name": "Nestle",
+        "symbol": "NSRGY",
+        "index": "index"
+    },
+    {
+        "name": "Nike",
+        "symbol": "NKE",
+        "index": "index"
+    },
+    {
+        "name": "Coca Cola",
+        "symbol": "KO",
+        "index": "index"
+    },
+    {
+        "name": "Adidas",
+        "symbol": "ADDYY",
+        "index": "index"
+    },
+    {
+        "name": "UCB SA",
+        "symbol": "UCB.BR",
+        "index": "index"
+    },
+    {
+        "name": "Takeda Pharmaceutical",
+        "symbol": "TAK",
+        "index": "index"
+    },
+    {
+        "name": "Merck and Co. Inc",
+        "symbol": "MRK",
+        "index": "index"
+    },
+    {
+        "name": "Edwards Lifesciences Corp",
+        "symbol": "EW",
+        "index": "index"
+    },
+    {
+        "name": "Procter",
+        "symbol": "PG",
+        "index": "index"
+    },
+    {
+        "name": "CNP Assurances",
+        "symbol": "CNP.PA",
+        "index": "index"
+    },
+    {
+        "name": "Danske",
+        "symbol": "DANSKE.CO",
+        "index": "index"
+    },
+    {
+        "name": "Rockwell Automation Inc",
+        "symbol": "ROK",
+        "index": "index"
+    },
+    {
+        "name": "Royal Bank of Canada",
+        "symbol": "RY",
+        "index": "index"
+    },
+    {
+        "name": "Blackrock",
+        "symbol": "BLK",
+        "index": "index"
+    },
+    {
+        "name": "Barclays PLC",
+        "symbol": "BCS",
+        "index": "index"
+    },
+    {
+        "name": "LOreal",
+        "symbol": "OR.PA",
+        "index": "index"
+    },
+    {
+        "name": "Yakult Honsha Co. Ltd.",
+        "symbol": "YKH.SG",
+        "index": "index"
+    },
+    {
+        "name": "Unilever NV",
+        "symbol": "UNA.AS",
+        "index": "index"
+    },
+    {
+        "name": "Vivendi SA",
+        "symbol": "VIVHY",
+        "index": "index"
+    },
+    {
+        "name": "Telenor",
+        "symbol": "TEL.OL",
+        "index": "index"
+    },
+    {
+        "name": "Wienerberger AG",
+        "symbol": "WBRBY",
+        "index": "index"
+    },
+    {
+        "name": "Kawasaki Heavy Industries Ltd.",
+        "symbol": "7012.T",
+        "index": "index"
+    },
+    {
+        "name": "Alfa Laval AB",
+        "symbol": "ALFA.ST",
+        "index": "index"
+    },
+    {
+        "name": "Cintas",
+        "symbol": "CTAS",
+        "index": "index"
+    },
+    {
+        "name": "Hess Corporation",
+        "symbol": "HES",
+        "index": "index"
+    },
+    {
+        "name": "Enagas SA",
+        "symbol": "ENGGY",
+        "index": "index"
+    },
+    {
+        "name": "Statoil ASA",
+        "symbol": "0M2Z.IL",
+        "index": "index"
+    },
+    {
+        "name": "Iberdrola",
+        "symbol": "IBE.MC",
+        "index": "index"
+    },
+    {
+        "name": "Waste Management",
+        "symbol": "WM",
+        "index": "index"
+    },
+    {
+        "name": "Prologis Inc",
+        "symbol": "PLD",
+        "index": "index"
+    },
+    {
+        "name": "C09.SE",
+        "symbol": "C09.SI",
+        "index": "index"
+    },
+    {
+        "name": "British Land Co.",
+        "symbol": "BLND.L",
+        "index": "index"
+    },
+    {
+        "name": "Electrolux",
+        "symbol": "ELUX-B.ST",
+        "index": "index"
+    },
+    {
+        "name": "vestas wind systems",
+        "symbol": "VWS.CO",
+        "index": "index"
+    }
+]
